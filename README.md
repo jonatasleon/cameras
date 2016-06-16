@@ -1,5 +1,7 @@
 # Recrutamento back-end do QMágico
 
+### Prazo 30/06
+
 Olá amigo back-end. Bem vindo ao processo de recrutamento do QMágico.
 
 Se você ainda não se cadastrou no nosso site, faça isso para iniciar o seu processo seletivo:
